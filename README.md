@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This is where the description of the project would be placed...
 
 ## What it does
 
-FEATURES PLACEHOLDER
+This is where the list of features would be placed...
 
 ## Getting started
 
